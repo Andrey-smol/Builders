@@ -10,6 +10,8 @@
     </parent>
 
     <artifactId>db</artifactId>
+    <packaging>jar</packaging>
+
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
